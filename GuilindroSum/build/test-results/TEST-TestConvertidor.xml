@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestConvertidor" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-02-07T16:09:49" hostname="GGIECSOFWRK151" time="0.364">
+  <properties/>
+  <testcase name="test" classname="TestConvertidor" time="0.364"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
