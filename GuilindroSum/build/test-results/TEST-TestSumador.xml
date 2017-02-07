@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSumador" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-02-07T16:40:19" hostname="GGIECSOFWRK151" time="0.001">
+<testsuite name="TestSumador" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-02-07T16:42:34" hostname="GGIECSOFWRK151" time="0.001">
   <properties/>
   <testcase name="test" classname="TestSumador" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
