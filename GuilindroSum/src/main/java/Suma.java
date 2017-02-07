@@ -11,7 +11,9 @@ public class Suma {
 		 */
         int suma = 0;
         for (int i=0 ; i<numeros.length ; i++){
+        	if (numeros[i] <= 1000){
             suma = suma + numeros[i];
+        	}
         }
         return suma;
     }
