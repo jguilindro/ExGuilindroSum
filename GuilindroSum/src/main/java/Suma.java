@@ -1,7 +1,11 @@
 
 public class Suma {
 	int sumador (int[] numeros){
-		return numeros[0]+numeros[1];
+		int suma=0;
+		for (int i=0;i<numeros.length;i++){
+			suma= suma+numeros[i];
+		}
+		return suma;
 	}
 	
 	int [] convertidor(String s){
